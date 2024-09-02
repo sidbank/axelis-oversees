@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@google-cloud/secret-manager": "^5.0.1",
     "@headlessui/react": "^1.7.18",
